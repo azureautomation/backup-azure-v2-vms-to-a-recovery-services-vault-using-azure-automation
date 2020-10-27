@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-azure-v2-vms-to-a-recovery-services-vault-using-azure-automation/master/Backup-V2VM.graphrunbook",
+    "DownloadCount": 2462,
+    "Id": "Back-up-Azure-V2-VMs-to-a-9518b594",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 100,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-6-1T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This Graphical PowerShell runbook backs up Azure V2 virtual machines to a Recovery Services Vault. It accepts as optional input parameters the resource group of virtual machines, the specific VM in a resource group, a backup policy, and optional subscription ID.",
+    "Title": "Backup Azure V2 VMs to a Recovery Services vault using Azure Automation",
+    "UpdatedDate": "2016-7-1T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-azure-v2-vms-to-a-recovery-services-vault-using-azure-automation",
+    "UserTags": "backup, Azure Automation, GraphicalPS"
+}
